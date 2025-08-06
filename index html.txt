@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diampuan Al-Rayan A. - BS Criminology Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <img src="https://placehold.co/150" alt="Placeholder Profile Picture">
+            <h1>Diampuan Al-Rayan A.</h1>
+            <p>BS Criminology Student | Aspiring Law Enforcement Professional</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <section id="about">
+            <h2>About Me</h2>
+            <p>A highly motivated and dedicated BS Criminology student with a strong interest in law enforcement, criminal justice, and community safety. Eager to apply academic knowledge and practical skills to contribute to a safer and more just society. Committed to upholding the principles of integrity, professionalism, and service.</p>
+        </section>
+
+        <section id="education">
+            <h2>Education</h2>
+            <p><strong>Bachelor of Science in Criminology</strong><br>
+            [Name of University] - [City, Province]<br>
+            Expected Graduation: May 2027</p>
+        </section>
+
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li><strong>Analytical Skills:</strong> Crime scene analysis, data interpretation</li>
+                <li><strong>Research Skills:</strong> Literature reviews, data collection, report writing</li>
+                <li><strong>Communication Skills:</strong> Public speaking, report writing, interviewing</li>
+                <li><strong>Technical Skills:</strong> Microsoft Office Suite, data analysis software (e.g., SPSS)</li>
+                <li><strong>Interpersonal Skills:</strong> Teamwork, leadership, conflict resolution</li>
+            </ul>
+        </section>
+
+        <section id="projects">
+            <h2>Projects & Activities</h2>
+            <div class="project">
+                <h3>Crime Scene Investigation Simulation</h3>
+                <p>Participated in a simulated crime scene investigation, applying forensic techniques to collect and analyze evidence.</p>
+            </div>
+            <div class="project">
+                <h3>Community Policing Initiative</h3>
+                <p>Volunteered with a local community policing program, assisting with neighborhood patrols and community outreach efforts.</p>
+            </div>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Email: diampuan.alrayan@example.com</p>
+            <p>LinkedIn: <a href="#">linkedin.com/in/diampuanalrayan</a></p>
+            <p>Phone: +63 (999) 123-4567</p>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Diampuan Al-Rayan A.</p>
+        </div>
+    </footer>
+
+</body>
+</html
