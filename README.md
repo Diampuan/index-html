@@ -71,4 +71,73 @@
 </html
 
 
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 2em 0;
+}
+
+header img {
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 1em;
+}
+
+header h1 {
+    margin-bottom: 0.5em;
+}
+
+section {
+    padding: 2em 0;
+    border-bottom: 1px solid #ddd;
+}
+
+section h2 {
+    color: #333;
+    margin-bottom: 1em;
+}
+
+ul {
+    list-style: disc;
+    padding-left: 20px;
+}
+
+.project {
+    margin-bottom: 1.5em;
+    padding: 1em;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    font-size: 0.8em;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 
